@@ -1,0 +1,49 @@
+
+  @1:{
+   7,  2
+  24, 20,  0, 14,  2, 36,  2, 13,  5
+  21, 18,  0, 14,  2, 11,  2,  6,  1
+  26,  0,  0, 14,  0, 30,  2, 15,  1
+  31, 10,  8, 15,  1,  0,  1,  1,  0,""}
+
+# *0{C192@1o4p3}
+# *1{*0v15 r128 a8}
+# *2{*0v14 r192>r8}
+# *3{*0v13     <r8}
+# *4{V-5D-3 r16.}
+
+# *10{>dc+de fefg a8d8 r8ef g+8ef fgfe fgfe dr}
+# *11{dr<ag+ adfg g+ab-a g+fed ab-ag+ aeb-a >e<ag+a >a<a>g<a>}
+# *12{f+gf+e+ f+gab >c<bag f+gaf+ fede fedc <b>cdc< ba-gf}
+# *13{erag+ aed+e >c+<ag+a >er<ar}
+# *14{*13 >f+r<ag+ ab>c+d edc+d c+<ba+b}
+# *15{ar>d-c d-red+ erag+ arer def+e dc+<ba g+aba g+f+ed}
+# *16{*13 fr>ed c+dc+<b ag+ab >c+<b>c+d}
+# *17{c+r<ag+ ab>c+d edc+d c+<bag+ f+rag+ arf+r g+rba g+abg+}
+# *18{a1r2r4r8a8}
+# *19{l16 *10<a8*10a8 *11*12 *14*15 *16*17 *18}
+
+# *20{l4 [[aa]2bb-aa]2}
+# *21{bbrbrbbb}
+# *22{[bbrb]2}
+# *23{l8 k3*21 k2*22 k1*21 k0*22}
+# *24{reaer}
+# *25{l4 *24f+af+ *24f+rb *24faf ra>c+<a l8[rdf+a]2}
+# *26{l16 c+r<ag+ ab>c+d erc+c c+def+ gf+ga b-agf efgf edc+e>}
+# *29{*20*23 *25*26}
+
+# *30{l8 [d4dd]8}
+# *31{ddrdrddd}
+# *32{[ddrd]2}
+# *33{k3*31 k2*32 k1*31 k0*32}
+# *34{l1c+dc+<b2>e2 c+dee2e2}
+# *35{l8 <([aara]4)>}
+# *39{*30*33 *34*35}
+
+A t219
+A *1 L*19
+B *2 L*29
+C *3 L*39
+H *4*1 L*19
+I *4*2 L*29
+J *4*3 L*39
