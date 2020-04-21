@@ -89,6 +89,10 @@ B *5g
 A *4c
 B *5g
 
+;aug7
+A *5c
+B *3g+
+
 ;m7
 A *4c
 B *4g
@@ -97,7 +101,7 @@ B *4g
 A *4c
 B *5g-
 
-;dim
+;dim7
 A *4c
 B *4g-
 
