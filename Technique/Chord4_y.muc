@@ -1,0 +1,72 @@
+
+  @1:{
+   0,  4
+  25,  5,  1, 14,  2, 20,  0,  8,  0
+  31,  9,  4, 15,  1,  0,  0,  8,  0
+  25,  5,  1, 14,  2, 20,  0,  8,  0
+  31,  9,  4, 15,  1,  0,  0,  8,  0,""}
+
+# *0{@1o2v15l1}
+# *2{yDM,1,$3E yDM,2,$3E yDM,3,$7F yDM,4,$7F K-10D9}
+# *3{yDM,1,$08 yDM,2,$08 yDM,3,$59 yDM,4,$59 K0D0}
+# *4{yDM,1,$3A yDM,2,$3A yDM,3,$7C yDM,4,$7C K-4D4}
+# *5{yDM,1,$78 yDM,2,$78 yDM,3,$3A yDM,4,$3A K0D2}
+# *6{yDM,1,$66 yDM,2,$66 yDM,3,$08 yDM,4,$08 K5D0}
+# *7{yDM,1,$7A yDM,2,$7A yDM,3,$3E yDM,4,$3E K-4D13}
+# *8{yDM,1,$08 yDM,2,$08 yDM,3,$5C yDM,4,$5C K0D0}
+# *9{yDM,1,$35 yDM,2,$35 yDM,3,$78 yDM,4,$78 K8D5}
+# *10{yDM,1,$76 yDM,2,$76 yDM,3,$3A yDM,4,$3A K5D2}
+# *11{yDM,1,$35 yDM,2,$35 yDM,3,$79 yDM,4,$79 K8D2}
+# *12{yDM,1,$78 yDM,2,$78 yDM,3,$3F yDM,4,$3F K0D2}
+
+A T140
+A *0
+B *0
+
+;add9
+A *3c
+B *4e
+
+;7
+A *5c
+B *4g
+
+;7sus4
+A *6c
+B *4g
+
+;M7
+A *5c
+B *5g
+
+;mM7
+A *4c
+B *5g
+
+;aug7
+A *5c
+B *3g+
+
+;m7
+A *4c
+B *4g
+
+;m7b5
+A *4c
+B *5g-
+
+;dim7
+A *4c
+B *4g-
+
+;6
+A *5c
+B *3g
+
+;m6
+A *4c
+B *3g
+
+;
+A *2c *3c *4c *5c *6c *7c *8c *9c *10c *11c *12c
+B r   r   r   r   r   r   r   r   r    r    r
